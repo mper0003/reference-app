@@ -7,4 +7,4 @@ commonLabels:
   environment: development
 nameSuffix: -dev
 resources:
-  - ../../base/guestbook
+  - ../base/guestbook

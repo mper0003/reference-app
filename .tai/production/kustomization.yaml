@@ -7,4 +7,4 @@ commonLabels:
   environment: production
 nameSuffix: -prod
 resources:
-  - ../../base/guestbook
+  - ../base/guestbook
