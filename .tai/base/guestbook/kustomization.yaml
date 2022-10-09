@@ -4,6 +4,7 @@ metadata:
   name: base-guestbook
 commonLabels:
   owner: mper0003
+namespace: guestbook
 resources:
   - namespace.yaml
   - service.yaml
