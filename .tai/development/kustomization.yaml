@@ -5,6 +5,7 @@ metadata:
 commonLabels:
   owner: mper0003
   environment: development
+  version: 1.0.0
 nameSuffix: -dev
 resources:
   - ../base/guestbook
