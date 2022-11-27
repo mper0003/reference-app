@@ -13,3 +13,5 @@ spec:
         - type: gateway
           properties:
             domain: simple-app.example.com
+            http:
+              "/": 80
