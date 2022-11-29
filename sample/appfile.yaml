@@ -1,0 +1,6 @@
+name: first-vela-app
+services:
+  testsvc:
+    type: webservice
+    image: crccheck/hello-world
+    port: 8000
