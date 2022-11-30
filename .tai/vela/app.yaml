@@ -9,9 +9,3 @@ spec:
       properties:
         image: vfarcic/devops-toolkit-series
         port: 80
-      traits:
-        - type: gateway
-          properties:
-            domain: simple-app.example.com
-            http:
-              "/": 80
